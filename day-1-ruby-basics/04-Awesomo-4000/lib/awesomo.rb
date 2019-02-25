@@ -28,24 +28,24 @@ PUNCHLINE = [
 ]
 
 def plot_generator
-  pick_actor + pick_setting + pick_relation + pick_punchline
+  # TODO: Your code here
 end
 
 
 def pick_actor
-  ACTOR.sample
+  # TODO: Your code here
 end
 
 def pick_setting
-  SETTING.sample
+  # TODO: Your code here
 end
 
 def pick_relation
-  RELATION.sample
+  # TODO: Your code here
 end
 
 def pick_punchline
-  PUNCHLINE.sample
+  # TODO: Your code here
 end
 
 
